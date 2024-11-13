@@ -30,6 +30,22 @@ A Todo List app to help users track their tasks and mark them as complete.
 - CSS
 - JavaScript
 
+3. Weather App
+A Weather App built with React that provides current weather information based on user input. This project uses a weather API to fetch real-time weather data and displays it in a user-friendly interface.
+
+Features:
+Displays weather details (temperature, humidity, weather condition, etc.) based on city input.
+Fetches data from an external weather API to get the current weather.
+Clean and responsive design to show weather information clearly.
+Error handling for invalid city names.
+
+Technologies Used:
+React: Used to build the app’s components and manage state.
+HTML: Used for the app’s basic structure.
+CSS: Used for styling and making the app responsive.
+JavaScript: Used for handling user interactions (e.g., onClick events) and making API calls.
+
+
 ## How to Clone and Use
 1. Clone this repository:
    ```bash
